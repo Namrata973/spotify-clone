@@ -12,4 +12,3 @@ document.querySelectorAll(".play-btn").forEach(function(button){
     });
 
 });
-//html me boht saare ho toh 
